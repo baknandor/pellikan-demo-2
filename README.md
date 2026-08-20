@@ -1,23 +1,24 @@
-# Pellikán Panzió és Pizzéria — új weboldal (minta)
+# Hotel Pellikán — Gösser Söröző és Pizzéria (minta weboldal)
 
-Modern, mobilbarát mintaoldal a szabadszállási Pellikán Panzió és Pizzéria számára.
-Klasszikus olasz pizzéria hangulat, teljes étlappal, galériával és szállás résszel.
+Modern, mobilbarát weboldal a szabadszállási Hotel Pellikán Gösser Söröző és Pizzéria számára,
+a nyomtatott étlap stílusában (fehér alap, zöld sávok, piros címek).
 
 ## Nyelvek
 - **index.html** — magyar
 - **en.html** — angol
 - **de.html** — német
 
-A jobb felső nyelvváltóval (HU / EN / DE) lehet váltani a verziók között.
+Nyelvváltó a fejlécben: HU / EN / DE.
 
-## Mit tud
-- Teljes étlap: 45 pizza két méretben (28 cm és 45 cm családi), extra feltétek, saláták, egyéb ételek
+## Funkciók
+- Teljes étlap a nyomtatott menü szerint: 45 pizza két méretben (28 cm / 45 cm), extra feltétek,
+  saláták, frissensültek, tészták, gyros — a frissített 2024-es árakkal
+- Élő nyitva/zárva jelző a fejlécben (a 11–21 nyitvatartás alapján, budapesti idő szerint)
+- Lenyíló (hamburger) menü mobilon, hogy elférjen a menüsor
 - Kereshető pizzalista feltét vagy név szerint
-- Fotógaléria és külön szállás szekció
+- Fotógaléria a valódi pizzákról és egy „helyszín” rész a teraszról
 - Kattintható telefonszám és Google térkép útvonalterv
-- Kiszállítási információk és nyitvatartás
-- Reszponzív, mobilon is jól használható elrendezés
 
-Minden egy önálló HTML fájlban van (beágyazott képekkel), külön háttér nem szükséges.
+Minden egy önálló HTML fájlban van, beágyazott képekkel.
 
-> Minta oldal bemutató céllal. A szobafotók és aktuális szállásárak feltöltése a végleges verzióban történik.
+> Minta oldal bemutató céllal.
